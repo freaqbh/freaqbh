@@ -2,8 +2,8 @@
   <img src="https://path.to/your/cool/banner.png" alt="Banner Profil GitHub" />
 </p>
 
-<h1 align="center">Hi there, I'm [NAMA_ANDA] 👋</h1>
-<h3 align="center">A Passionate [BIDANG_ANDA, cth: Backend Developer] from [LOKASI_ANDA, cth: Indonesia]</h3>
+<h1 align="center">Hi there, I'm M. Abhinaya Al Faruqi 👋</h1>
+<h3 align="center">A Passionate Backend Developer from Indonesia</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/[LINK_LINKEDIN_ANDA]" target="_blank">
@@ -55,12 +55,12 @@
 
 <h3 align="left">📊 Statistik GitHub Saya:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=freaqbh&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME_GITHUB_ANDA]&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freaqbh&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB_ANDA]&theme=dracula" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freaqbh&theme=dracula" alt="GitHub Streak" />
 </p>
 
 *Tips: Anda bisa mengubah `theme` di URL gambar statistik. Lihat tema yang tersedia [di sini](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md).*
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/[USERNAME_GITHUB_ANDA]/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/freaqbh/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
