@@ -12,9 +12,25 @@ I'm a passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Analys
   - **Backend:** Golang (Fiber, Chi)
   - **Frontend:** JavaScript (Svelte, Vue)
 - 🏗️ **Projects I Love:**  
-  - **Data Lakehouse Architecture Project**  
-  - **Machine Learning Project**  
-  - **Web Development Project**
+  - Data Lakehouse Architecture  
+  - Machine Learning  
+  - Web Development
+
+---
+
+## 🌟 Featured Projects
+
+### [machine_learning](https://github.com/freaqbh/machine_learning)
+*Jupyter Notebooks for machine learning experiments and AI demos. Explore deep learning, classic ML, and hands-on data science.*
+
+### [pweb-express-mongodb-P28-2024](https://github.com/freaqbh/pweb-express-mongodb-P28-2024)
+*Full-stack web development project using TypeScript, Express, and MongoDB. Backend APIs and modern web server patterns.*
+
+### [BIGD-FP](https://github.com/Gandhiert/BIGD-FP)
+*Collaborative project for Big Data—leveraging Jupyter Notebook, Python, and Shell for scalable data analysis and processing.*
+
+### [pweb-vuejs-P28-2024](https://github.com/freaqbh/pweb-vuejs-P28-2024)
+*Cutting-edge Vue.js front-end application with TypeScript integration—modern UI/UX, SPA best practices, and dynamic features.*
 
 ---
 
