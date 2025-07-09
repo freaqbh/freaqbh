@@ -23,6 +23,9 @@ I'm a passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Analys
 ### [machine_learning](https://github.com/freaqbh/machine_learning)
 *Jupyter Notebooks for machine learning experiments and AI demos. Explore deep learning, classic ML, and hands-on data science.*
 
+### [face_recognition](https://github.com/freaqbh/face_recognition)
+*Research about deep Learning face recognition and face detection model for a modular based website*
+
 ### [pweb-express-mongodb-P28-2024](https://github.com/freaqbh/pweb-express-mongodb-P28-2024)
 *Full-stack web development project using TypeScript, Express, and MongoDB. Backend APIs and modern web server patterns.*
 
