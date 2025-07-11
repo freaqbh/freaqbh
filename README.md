@@ -9,7 +9,7 @@ I'm a passionate **Full-Stack Developer**, **AI/ML Engineer**, and **Data Analys
 - 💼 **Profession:** Full-Stack Developer | AI/ML Engineer | Data Analyst
 - 🛠️ **Tech Stack:**
   - **AI/ML:** TensorFlow, matplotlib
-  - **Backend:** Golang (Fiber, Chi)
+  - **Backend:** Golang (Fiber, Chi), Typescript (Express), Python (Flask)
   - **Frontend:** JavaScript (Svelte, Vue)
 - 🏗️ **Projects I Love:**  
   - Data Lakehouse Architecture  
